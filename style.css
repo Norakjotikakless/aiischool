@@ -1,0 +1,19 @@
+body{
+    background-color:aqua;
+    text-align: center;
+}
+.abtschool{
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.campus{    
+    border: 3px solid gold;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
